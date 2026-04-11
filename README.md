@@ -46,13 +46,13 @@ src="https://raw.githubusercontent.com/gist/samueellfs/e1aabc20c993ed80b819cbc18
 
 <p align="left" style="background:yellow">
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
+<a href="https://twitter.com/SamuelF3rnandes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-SamuelF3rnandes-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://linkedin.com/in/samuelfernandes" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-samuelfernandes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/Samuelfernand3s" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Samuelfernand3s-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </a>
